@@ -1,0 +1,15 @@
+{
+  "name": "TutorialForBeginners",
+  "version": "1.0.0",
+  "description": "IIROSE新手教程",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": "git@github.com:iirose-tools/TutorialForBeginners.git",
+  "author": "TheresaQWQ <yxiao2044@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
