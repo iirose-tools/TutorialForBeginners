@@ -22,7 +22,8 @@ module.exports = {
         title: '花园相关',
         children: [
           "/iirose/commands.md",
-          "/iirose/hotKey.md"
+          "/iirose/hotKey.md",
+          "/iirose/maze.md"
         ]
       },
       {
