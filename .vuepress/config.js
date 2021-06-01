@@ -28,6 +28,13 @@ module.exports = {
       },
       {
         isGroup: true,
+        title: '活动',
+        children: [
+          "/active/密室系列 - 开端.md"
+        ]
+      },
+      {
+        isGroup: true,
         title: '其他东西',
         children: [
           "/others/site",
